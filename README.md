@@ -8,7 +8,7 @@
     
 - **工具及环境**：
 
-        jdk_1.8,    IDEA2017,   Maven,  Git,    Github,    windows
+        jdk_1.8,    IDEA2017,   Maven,  Git,    Github,    windows, Tomcat8.5
         
 - **使用框架**：
 
@@ -93,3 +93,4 @@
     4.   git push -u origin master
     
 
+## 项目完整代码在分支v1.0上
