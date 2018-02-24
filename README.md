@@ -8,7 +8,7 @@
     
 - **工具及环境**：
 
-        jdk_1.8,    IDEA2017,   Maven,  Git,    Github,    windows
+        jdk_1.8,    IDEA2017,   Maven,  Git,    Github,    windows, Tomcat8.5
         
 - **使用框架**：
 
@@ -705,5 +705,12 @@
      
      > 生成的文件(resources文件夹下有一个mappers文件夹，存放生成的mybatis所需要的xml文件，图略)
 
-### 用户模块
+#### 框架集成
 
+- 配置web.xml文件
+
+    
+
+- Spring 配置文件(参照github上的官方demo，这里详细解答如何利用spring官方demo来偷懒)
+    
+    创建
